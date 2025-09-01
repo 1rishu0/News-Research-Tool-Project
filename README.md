@@ -26,15 +26,15 @@ Users can then query the content and receive precise, source-backed answers usin
 
 ## 📂 Project Structure
 
-├── main.py                # Main Streamlit application entry point
-├── requirements.txt       # Python dependencies
-├── faiss_store_openai.pkl # Serialized FAISS index for embeddings
-├── .env                   # Environment variables (not committed)
-└── LICENSE                # GPL-3.0 license
-
----
+- **`main.py`** – Main Streamlit application entry point  
+- **`requirements.txt`** – Python dependencies required for the project  
+- **`faiss_store_openai.pkl`** – Serialized FAISS index for storing embeddings  
+- **`.env`** – Environment variables (not committed; contains your API key)  
+- **`LICENSE`** – Project's open-source license (GPL-3.0) 
 
 ## 📸 Demo / Screenshots
+
+![Image](https://github.com/user-attachments/assets/f5140384-6bce-4f38-a710-b6142e1d84cb)
 
 ---
 
